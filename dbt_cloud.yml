@@ -1,0 +1,12 @@
+version: "1"
+context:
+  active-host: "ip812.us1.dbt.com"
+  active-project: "70471823406449"
+projects:
+  - project-name: "Analytics"
+    project-id: "70471823406449"
+    account-name: "Grupo SBF"
+    account-id: "70471823405136"
+    account-host: "ip812.us1.dbt.com"
+    token-name: "cloud-cli-afef"
+    token-value: "dbtu_N-pfR74DNvdYY0LLGwdrRcl0sf2Uu80kuhzvHhf-YY3P2s-XBQ"
