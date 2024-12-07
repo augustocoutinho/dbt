@@ -1,0 +1,16 @@
+
+version: 2
+
+models:
+    - name: modeling_data
+      description: "Remame data columns"
+      columns:
+          - name: id
+
+    - name: transfering_data
+      description: "Transfering data from raw to trusted"
+      depends_on: modeling_data
+          - 
+      columns:
+          - name: id
+            
