@@ -1,0 +1,2 @@
+SELECT * FROM ``
+WHERE `regra`
